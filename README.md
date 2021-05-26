@@ -1,10 +1,10 @@
-#PIMA diabets dataset - ANN project Using Pytorch ideas:
+# PIMA diabets dataset - ANN project Using Pytorch ideas:
 
-1.About the data:
+# 1.About the data:
             A.Data can be held from 'https://www.kaggle.com/uciml/pima-indians-diabetes-database'
             B.Datasets contains 9 features including labels of binary class
            
-2.Step by Step Implementation:
+# 2.Step by Step Implementation:
            1.Data Import
            2.Pairplot Idea
            3.Data Split and tensor conversion
